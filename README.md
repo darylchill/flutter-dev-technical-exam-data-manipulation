@@ -1,4 +1,4 @@
-# flutter_dev_technical_exam_3_data_manipulation
+# Flutter Dev Technical Exam 3- Data Manipulation
 
 Given the data below, create the following functions:
 
