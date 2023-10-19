@@ -1,9 +1,5 @@
 # flutter_dev_technical_exam_3_data_manipulation
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
 Given the data below, create the following functions:
 
 - Price range filter – a function that accepts two integers as price range and returns a list of specific products that matches the price range criteria.
