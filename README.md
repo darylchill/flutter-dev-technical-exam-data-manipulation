@@ -20,3 +20,6 @@ List<Product> productList = [
     Product('Tablet', 7000),
     Product('Smartwatch', 1500),
   ];
+
+
+<p align="center"><a href="#" target="_blank"><img src="sample.png" alt="sample" class='logo' style='mix-blend-mode:multiply'></a></p>
